@@ -1,7 +1,7 @@
 # script_noc_v1.py
 # -----------------------------
 # Proyecto: NOC IBM
-# Versión: 1.2
+# Versión: 1.1
 # Autor: Néstor Vásquez
 # Fecha: 2025-07-05
 # ----------------------------
@@ -14,5 +14,5 @@ def ordenamiento(a,b,c):
         return b
     return c
 
-m = ordenamiento(10,2,(80)*5)
+m = ordenamiento(10,2,80)
 print(f'El número mayor es:', m)
