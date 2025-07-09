@@ -56,16 +56,3 @@ else:
     else:
         # Caso: C > B > A
         print('6. El orden es:', C, B, A)
-
-
-
-   
-
-     
-
-     
-     
-
-
-
-
